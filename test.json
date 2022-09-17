@@ -2,7 +2,7 @@
 spider:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/jar/dkbck7pu.jar',
 "sites":[
 
-{"key":"csp_biubiu_CBB","name":"🥒 电影工场(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://orscar.3vkj.net/%E5%BD%B1%E7%89%87%E5%B7%A5%E5%9C%BA.json"},
+{"key":"csp_biubiu_CBB","name":"🥒 电影工场(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://timwon1984.github.io/livetv/XQB/88.json"},
 
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
