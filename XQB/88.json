@@ -35,7 +35,7 @@
     "cat_prefix": "www.88hd.com",
     "cat_suffix": "",
     "search_url": "https://www.88hd.com/search?key={wd}",
-    "search_mode": "1",
+    "search_mode": "0",
     "jsonpic": "pic",
     "jsonname": "name",
     "jsonid": "id",
