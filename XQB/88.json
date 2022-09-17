@@ -3,7 +3,7 @@
     "author": "香雅情",
     "UserAgent":"",
     "firstpage": "1",
-    "class_url": "https://www.88hd.com/vod-list-id-{cateId}{catelog}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",[firstPage="https://www.88hd.com/vod-list-id-1-pg-1-order--by--class-0-year-0-letter--area--lang-.html"]
+    "class_url": "https://www.88hd.com/vod-list-id-{cateId}{catelog}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html[firstPage=https://www.88hd.com/vod-list-id-1-pg-1-order--by--class-0-year-0-letter--area--lang-.html]",
     "class_name": "电影&电视剧&综艺&动漫",
     "class_value": "1&2&3&4",
      "filterdata":{"1": [           {        "key": "area",        "name": "地区",        "value": [          { "n": "全部", "v": "" },          { "n": "内地", "v": "中国大陆" },          { "n": "香港", "v": "中国香港" },          { "n": "台湾", "v": "中国台湾" },          { "n": "美国", "v": "美国" },          { "n": "日本", "v": "日本" },          { "n": "韩国", "v": "韩国" },          { "n": "英国", "v": "英国" },          { "n": "法国", "v": "法国" }          ]      },    
