@@ -59,7 +59,7 @@
     "proj_plot": "class=\"ct mb clearfix",
     "tab_YN_twice": "1",
     "tab_twice_pre": "<div class=\"tab-down mb clearfix",
-    "tab_twice_suf": "class\"index-area clearfix">",
+    "tab_twice_suf": "class\"index-area clearfix",
     "tab_arr_pre": "<li",
     "tab_arr_suf": "/ul>",
     "tab_title": "&&",
