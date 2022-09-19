@@ -3,6 +3,7 @@ spider:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-li
 "sites":[
 
 {"key":"csp_biubiu_CBB","name":"🥒 电影工场(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://timwon1984.github.io/livetv/XQB/88.json"},
+ {"key":"csp_biubiu_CBa","name":"🥒 电影(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://timwon1984.github.io/livetv/XQB/87.json"},
 
 
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
