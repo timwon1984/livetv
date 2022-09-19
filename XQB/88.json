@@ -60,7 +60,7 @@
     "tab_YN_twice": "0",
     "tab_twice_pre": "<ul class=\"playfrom tab8 clearfix\">",
     "tab_twice_suf": "</ul>",
-    "tab_arr_pre": "id=\"tab8",
+    "tab_arr_pre": "<li id=\"&&",
     "tab_arr_suf": "</li>",
     "tab_title": "/a>&&<",
     "list_YN_twice": "0",
