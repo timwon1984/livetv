@@ -62,7 +62,7 @@
     "tab_twice_suf": "class=\"index-area clearfix",
     "tab_arr_pre": "<li id=\"&&\"",
     "tab_arr_suf": "/li>",
-    "tab_title": "/i>"&&"<",
+    "tab_title": "=\"&&",
     "list_YN_twice": "0",
     "list_twice_pre": "class=\"playlist clearfix",
     "list_twice_suf": "</ul>",
