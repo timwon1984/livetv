@@ -58,7 +58,7 @@
     "proj_actor": "空",
     "proj_plot": "class=\"js\">&&</div>",
     "tab_YN_twice": "0",
-    "tab_twice_pre": "@onclick=$",
+    "tab_twice_pre": "class=\"\",
     "tab_twice_suf": "/div>",
     "tab_arr_pre": "<li",
     "tab_arr_suf": "/li>",
