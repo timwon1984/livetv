@@ -25,7 +25,7 @@
     "cat_YN_twice": "0",
     "cat_twice_pre": "<li",
     "cat_twice_suf": "/li>",
-    "cat_arr_pre": "<a",
+    "cat_arr_pre": "<a class=\"stui-vodlist__thumb lazyload",
     "cat_arr_suf": "/a>",
     "cat_pic": "data-original=\"&&\"",
     "cat_title": "title=\"&&\"",
