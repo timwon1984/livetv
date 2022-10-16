@@ -11,7 +11,7 @@
 "图片代理":"0",
 "起始页":"1",
 
-"数组":"class=\"pack-packcover&&class=\"mac_pages",
+"数组":"class=\"pack-packcover&&</a>,
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
@@ -26,7 +26,7 @@
   
   "简介": "display: none;\">&&</span>",
   
-  "线路数组": "class:=\channelname swiper-slide active swiper-slide&&alt=\"",
+  "线路数组": "class:=\"channelname swiper-slide active swiper-slide&&alt=\"",
   "线路标题": ">&&<",
   
 "播放数组":"class=\"playlist_notfull\"&&</ul>",
