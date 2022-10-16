@@ -26,10 +26,10 @@
   
   "简介": "display: none;\">&&</span>",
   
-  "线路数组": "class:=\"channelname swiper-slide active swiper-slide-visible swiper-slide-active&&alt=\"",
-  "线路标题": ">&&<",
+  "线路数组": "class:=\"channelname swiper&&alt=\"",
+  "线路标题": ">&&/a>",
   
-"播放数组":"class=\"playlist_notfull&&</div>",
+"播放数组":"class=\"playlist_notfull&&</ul>",
 "状态":"上映：</span>&&</div>",
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
