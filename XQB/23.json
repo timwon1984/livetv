@@ -29,7 +29,7 @@
   "线路数组": "class:=\"play_source&&</div>",
   "线路标题": ">&&<",
   
-"播放数组":"id=\"tagContent&&</div>",
+"播放数组":"class=\"play_list_box show daoxu&&</div>",
 "状态":"上映：</span>&&</div>",
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
