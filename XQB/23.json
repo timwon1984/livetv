@@ -26,10 +26,10 @@
   
   "简介": "display: none;\">&&</span>",
   
-  "线路数组": "class:=\"play_source_tab&&alt=\"",
+  "线路数组": "class:=\"channelname swiper-slide active swiper-slide-visible swiper-slide-active&&alt=\"",
   "线路标题": ">&&<",
   
-"播放数组":"class=\"play_list_box show daoxu&&</div>",
+"播放数组":"class=\"playlist_notfull&&</div>",
 "状态":"上映：</span>&&</div>",
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
