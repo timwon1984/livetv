@@ -1,0 +1,42 @@
+{
+"作者": "timwon",
+"站名": "在线学习",
+"主页url": "https://www.88hd.com/",
+  
+"热门推荐":"1",
+"直接播放":"0",
+"列表显示":"0",
+"图片代理":"0",
+"起始页":"1",
+"二次截取":"class=\"index-area clearfix&&class=\"page mb clearfix",
+"数组":"<a&&alt=\"",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+  "副标题": "text-right\">&&</span>",
+  "搜索url": "https://www.23wm.net/vodsearch.html?wd={wd}",
+"搜索模式": "1",
+"搜索数组": "<li>&&</li>",
+"搜索图片": "data-original=\"&&\"",
+"搜索标题": "title=\"&&\"",
+"搜索链接": "href=\"&&\"",
+  "搜索后缀":"/voddetail/",
+  
+  "简介": "display: none;\">&&</span>",
+  
+  "线路数组": ""<div id=\"tab81&&</ul>",
+  "线路标题": "</i>&&</li>",
+  
+"播放数组":"<div id=\"vlink&&</ul>",
+"状态":"上映：</span>&&</div>",
+  "导演": "导演：&&</p>",
+  "主演": "主演：&&</p>",
+"简介":"<p>&&</p>",
+"播放列表":"<a&&/a>",
+"播放标题":"span>&&</span",
+"播放链接":"href=\"&&\"",
+"免嗅":"1",
+  "分类": "电影$1#剧集$2#综艺$3#动漫$4#直播$5",
+  "分类url": "https://www.88hd.com/vod-list-id-{cateId}-pg-{catepg]-order--by--class--year--letter--area--lang-.html",
+ 
+}
