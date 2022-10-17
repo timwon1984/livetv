@@ -21,7 +21,7 @@
 "搜索标题": "title=\"&&\"",
 "搜索链接": "href=\"&&\"",
 "搜索后缀":"/voddetail/",
- "线路数组": "<div class=\"playfrom tab&&</div>",
+ "线路数组": "<div onclick=\"setTab(&&</ul>",
   "线路标题": "</i>&&</li>",
   
 "播放数组":"<div id=\"vlink&&</ul>",
