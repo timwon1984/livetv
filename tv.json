@@ -60,7 +60,7 @@ VIUT,http://206.221.176.47:64030#http://198.16.64.170:8278/viu_twn/playlist.m3u8
 VIUT6,http://198.16.64.170:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 RTHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd#http://50.7.220.74:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10#http://173.211.42.73:8278/rhk32_twn/playlist.m3u8?tid=MD9D3680764436807644&ct=19234&tsum=6c3d17c15f8d4a4a0537ef1cb7c1cc45
 RTHK31,http://173.211.42.73:8278/rhk31_twn/playlist.m3u8?tid=MEFE5444496454444964&ct=19234&tsum=d47d918a346b323bcbbbce0dac0192c5
-有线18,rtmp://59.124.75.138/sat/hk041#http://206.221.176.47:64018
+有线18,rtmp://59.124.75.147/sat/hk041#http://206.221.176.47:64018
 HOLLWOOD,http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 香港佛陀HD,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
@@ -182,6 +182,7 @@ TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
 创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+
 民视,HD,http://23.237.10.66:16334
 民视新闻,https://epg.pm/stream/41a27760357d19c61969e35967cf5a18a3f850a75b00a1e2377ab2cc934a44d9.m3u8
 民视新闻台,https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
@@ -201,7 +202,7 @@ TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279
 中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
 中视新闻,https://epg.pm/stream/3424fe5c5c950cf105fcff7c1e99bf9ab5ccbfa9da5f7fa7882416bcf619ac43.m3u8
 中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
-卫视中文台,http://61.219.170.95:18522/hls/62/804/ch05.m3u8 
+台湾卫视中文台,http://206.221.176.47:64033
 卫视中文台,http://59.125.122.90:18522/http/192.168.1.9:8081/hls/76/818/ch08.m3u8 
 卫视中文台,http://59.125.122.90:18522/http/192.168.1.9:8066/hls/210/10010/ch00.m3u8 
 卫视中文台,http://59.125.122.90:18522/http/192.168.1.9:8081/hls/68/810/ch01.m3u8
@@ -247,8 +248,9 @@ TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279
 高三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
 国外&台体育,#genre#
+五星,http://206.221.176.47:64034
+ASTRO SPUER4,http://206.221.176.47:64035
 NOW SPORT1,http://206.221.176.47:64017
-NOW SPORT2,http://pull-l3-cny.douyincdn.com/live/663d0e1dd4c5360244a669f2157cf9bc.flv
 SKY SPROTS,http://206.221.176.47:64003
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 SPORTTV2,http://23.237.10.66:16180
@@ -261,38 +263,38 @@ SPORTTV2,http://23.237.10.66:16180
 NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
 NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225648/index.m3u8
 NewTV超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225767/index.m3u8
-1緯來育力ᴴᴰ,rtmp://59.124.75.138/sat/tv701
-1偉來體育ᴴᴰ,rtmp://59.124.75.138/sat/tv721
-1ELEVEN1體育,rtmp://59.124.75.138/sat/tv731
-1ELEVEN2休育,rtmp://59.124.75.138/sat/tv741
-1MoMo綜合台,rtmp://59.124.75.138/sat/tv761
-1東森超視ᴴᴰ,rtmp://59.124.75.138/sat/tv331
-1緯來日本ᴴᴰ,rtmp://59.124.75.138/sat/tv771
-1博斯運動1,rtmp://59.124.75.138/sat/md011
-1ELEVEN+體育,rtmp://59.124.75.138/sat/md031
-1ELT體育2（201台）,rtmp://59.124.75.138/sat/md041
-1ELT體育3台(202台),rtmp://59.124.75.138/sat/md051
-1愛爾達體育2台,rtmp://59.124.75.138/sat/md021
-1TVBS歡樂台ᴴᴰ,rtmp://59.124.75.138/sat/tv421
-有线体育,http://206.221.176.47:64017
-有线体育,rtmp://59.124.75.138/sat/hk011
+1緯來育力ᴴᴰ,rtmp://59.124.75.147/sat/tv701
+1偉來體育ᴴᴰ,rtmp://59.124.75.147/sat/tv721
+1ELEVEN1體育,rtmp://59.124.75.147/sat/tv731
+1ELEVEN2休育,rtmp://59.124.75.147/sat/tv741
+1MoMo綜合台,rtmp://59.124.75.147/sat/tv761
+1東森超視ᴴᴰ,rtmp://59.124.75.147/sat/tv331
+1緯來日本ᴴᴰ,rtmp://59.124.75.147/sat/tv771
+1博斯運動1,rtmp://59.124.75.147/sat/md011
+1ELEVEN+體育,rtmp://59.124.75.147/sat/md031
+1ELT體育2（201台）,rtmp://59.124.75.147/sat/md041
+1ELT體育3台(202台),rtmp://59.124.75.147/sat/md051
+1愛爾達體育2台,rtmp://59.124.75.147/sat/md021
+1TVBS歡樂台ᴴᴰ,rtmp://59.124.75.147sat/tv421
 
-1NHL1體育,rtmp://59.124.75.138/sat/us011
-1NBCSN體育,rtmp://59.124.75.138/sat/us021
-1體育3,rtmp://59.124.75.138/sat/us031
-1DlERcTV4,rtmp://59.124.75.138/sat/us041
-1ENEVS,rtmp://59.124.75.138/sat/us051
-11DlERcTV7,rtmp://59.124.75.138/sat/us071
-1體育8,rtmp://59.124.75.138/sat/us081
-1ENvivo体育,rtmp://59.124.75.138/sat/us231
-1TUDN体育,rtmp://59.124.75.138/sat/us241
-1HBOnDX,rtmp://59.124.75.138/sat/us261
-1ENVY7,rtmp://59.124.75.138/sat/us271
-1SHO8,rtmp://59.124.75.138/sat/us281
-1GAORA日本体育,rtmp://59.124.75.138/sat/jp011
-124ELVE体育,rtmp://59.124.75.138/sat/jp021
-1体育3,rtmp://59.124.75.138/sat/jp031
-1BS体育,rtmp://59.124.75.138/sat/jp041
+有线体育,rtmp://59.124.75.147/sat/hk011
+
+1NHL1體育,rtmp://59.124.75.147/sat/us011
+1NBCSN體育,rtmp://59.124.75.147/sat/us021
+1體育3,rtmp://59.124.75.147/sat/us031
+1DlERcTV4,rtmp://59.124.75.147/sat/us041
+1ENEVS,rtmp://59.124.75.147/sat/us051
+11DlERcTV7,rtmp://59.124.75.147/sat/us071
+1體育8,rtmp://59.124.75.147/sat/us081
+1ENvivo体育,rtmp://59.124.75.147/sat/us231
+1TUDN体育,rtmp://59.124.75.147/sat/us241
+1HBOnDX,rtmp://59.124.75.147/sat/us261
+1ENVY7,rtmp://59.124.75.147/sat/us271
+1SHO8,rtmp://59.124.75.147/sat/us281
+1GAORA日本体育,rtmp://59.124.75.147/sat/jp011
+124ELVE体育,rtmp://59.124.75.147/sat/jp021
+1体育3,rtmp://59.124.75.147/sat/jp031
+1BS体育,rtmp://59.124.75.147/sat/jp041
 BEIN1,http://50.7.237.4:8080/BEIN1/index.m3u8
 BEIN2,http://50.7.237.4:8080/BEIN2/index.m3u8
 bensport1,http://93.152.174.144:4000/play/bein1ar/index.m3u8
@@ -4115,11 +4117,11 @@ NewTV超级电视剧,http://39.134.65.183/PLTV/88888888/224/3221225637/1.m3u8
 【港•澳•台,#genre#
 BHTV,http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 BHTV,http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
-ELTA体育2台,rtmp://59.124.75.138/sat/md011
-ELTA体育2台,rtmp://59.124.75.138/sat/md021
-ELTA体育3台,rtmp://59.124.75.138/sat/md041
+ELEVEN1,rtmp://59.124.75.147/sat/tv731
+ELEVEN2,rtmp://59.124.75.147/sat/tv741
+ELTA体育2台,rtmp://59.124.75.147/sat/md011
+ELTA体育2台,rtmp://59.124.75.147/sat/md021
+ELTA体育3台,rtmp://59.124.75.147/sat/md041
 GoodTV爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
 GoodTV真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
 GoodTV经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
@@ -4137,7 +4139,7 @@ HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 Hope,https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/chunklist.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-MOMO綜合,rtmp://59.124.75.138/sat/tv761
+MOMO綜合,rtmp://59.124.75.147/sat/tv761
 PTP HD,https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
 RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
@@ -4165,9 +4167,9 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 三立綜合,http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 东森综合,http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森财经新闻,rtmp://59.124.75.138/sat/tv571
+东森财经新闻,rtmp://59.124.75.147/sat/tv571
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-中视,rtmp://59.124.75.138/sat/tv091
+中视,rtmp://59.124.75.147/sat/tv091
 中视经典,http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
@@ -4194,11 +4196,11 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-华视,rtmp://59.124.75.138/sat/tv111
+华视,rtmp://59.124.75.147/sat/tv111
 华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-台视,rtmp://59.124.75.138/sat/tv071
+台视,rtmp://59.124.75.147/sat/tv071
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 唯心台,http://124.238.99.44:808/hls/363/index.m3u8
@@ -4214,7 +4216,7 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 无线财经,https://cdn.hklive.tv:443/xxxx/85/index.m3u8
 时装模特imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8
 星卫电影台,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-民视,rtmp://59.124.75.138/sat/tv051
+民视,rtmp://59.124.75.147/sat/tv051
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -4261,9 +4263,9 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 番薯心乐团,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯心乐团,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-纬来体育,rtmp://59.124.75.138/sat/tv721
-纬来日本,rtmp://59.124.75.138/sat/tv771
-纬来育乐,rtmp://59.124.75.138/sat/tv701
+纬来体育,rtmp://59.124.75.147/sat/tv721
+纬来日本,rtmp://59.124.75.147/sat/tv771
+纬来育乐,rtmp://59.124.75.147/sat/tv701
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
