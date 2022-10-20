@@ -8,7 +8,7 @@
 "列表显示":"0",
 "图片代理":"0",
 "起始页":"1",
-"二次截取":"<div data-role=\content&&&data-role=\"footer",
+"二次截取":"<div data-role=\"content&&&data-role=\"footer",
 "数组":"class=\"ui-btn-text&&</a>"
 "图片":"scr=\"&&\"",
 "标题":">&&<font",
@@ -18,7 +18,7 @@
   "线路数组": "<b>&&</b>",
   "线路标题": "<span class=:\"ui-btn-text>&&</span>",
   
-"播放数组":""<b>&&</b>",
+"播放数组":"<b>&&</b>",
 "状态":"上映：</span>&&</div>",
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
