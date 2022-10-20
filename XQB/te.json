@@ -1,24 +1,20 @@
 {
 "作者": "timwon",
 "站名": "在线学习",
-"主页url": "http://iptv.everydaytv.top/",
+"主页url": "http://iptv.everydaytv.top/?act=list&tid=%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%E9%A0%BB%E9%81%93",
   "User":"User-Agent:Dart/2.14 (dart:io)",
 "热门推荐":"1",
 "直接播放":"0",
 "列表显示":"0",
 "图片代理":"0",
 "起始页":"1",
-"二次截取":"<div data-role=\"content&&&data-role=\"footer",
-"数组":"class=\"ui-btn-text&&</a>"
-"图片":"scr=\"&&\"",
-"标题":"class=\"ui-link-inherit&&</a>",
-"链接":"href=\"&&\"",
+
  
   
-  "线路数组": "<b>&&</b>",
-  "线路标题": "<span class=:\"ui-btn-text>&&</span>",
+  "线路数组": "class\"ui-btn-text",
+  "线路标题": "<span class=:\"ui-li-thumb>&&<font",
   
-"播放数组":"<b>&&</b>",
+"播放数组":"<b&&/b>",
 "状态":"上映：</span>&&</div>",
   "导演": "导演：&&</p>",
   "主演": "主演：&&</p>",
