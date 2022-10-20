@@ -11,7 +11,7 @@
 "二次截取":"<div data-role=\"content&&&data-role=\"footer",
 "数组":"<a&&class=\"ui-link-inherit"
 "图片":"scr=\"&&\"",
-"标题":">&&<font",
+"标题":"class=\"ui-link-inherit&&</a>",
 "链接":"href=\"&&\"",
  
   
@@ -27,7 +27,7 @@
 "播放标题":"span>&&</span",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
-  "分类url": "http://iptv.everydaytv.top/?act=list&tid=🇭🇰{cateId}",
-  "分类": "直播$香港頻道",
+  "分类url": "http://iptv.everydaytv.top/?act=list&tid={cateId}",
+  "分类": "直播$HK香港頻道",
  
 }
