@@ -232,7 +232,7 @@
 {"name":"1717","type":0,"url":"https://ckmov.ccyjjd.com/ckmov/?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
 {"name":"tv解析","type":0,"url":"https://dmjx.m3u8.tv/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-{"name":"ok解析","type":0,"url":"https://api.okjx.cc:3389/jx.php?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"ok解析","type":0,"url":"https://okjx.cc/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"七豆解析","type":0,"url":"https://jx.nnxv.cn/tv.php?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","iqiyi","奇艺"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
 {"name":"七哥","type":0,"url":"https://jx.mmkv.cn/tv.php?url=","ext":{"flag":["ltnb","rx","qiyi","爱奇艺","qq","奇艺","sohu","letv","youku","优酷","mgtv","芒果"]}},
