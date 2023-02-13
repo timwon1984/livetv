@@ -456,7 +456,9 @@
 
 {"name":"全网1","type":0,"url":"https://jx.sujx.top/jiexi.php/?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
 {"name":"云1","type":0,"url":"https://jx.aidouer.net/?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
-
+{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
+{"name":"KLTV","type":1,"url":"http://zyjx.kltv2022.xyz/api.php?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
+	
 {"name":"高速","type":0,"url":"https://jsap.attakids.com/?url=","header":{"User-Agent":"Dart/2.14 (dart:io)"}},
 {"name":"8090","type":0,"url":"https://www.8090g.cn/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"293","type":0,"url":"https://www.pangujiexi.com/pangu/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
