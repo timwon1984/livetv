@@ -21,7 +21,7 @@
 "线路标题":"<span>&&</span>",
 "播放数组":"play-list\">&&</div>",
 "分类":"电影$dianying#剧集$lianxuju#港剧$gangtaiju#港片",
-"分类url":"https://www.yueyuyy.cc/leishow/{cateId}/year/{year}",
+"分类url":"https://www.yueyuyy.cc/leishow/id/{cateId}/year/{year}",
 
 "筛选":
 {
