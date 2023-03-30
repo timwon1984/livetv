@@ -27,21 +27,23 @@
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-
+NOW新闻,http://hs.nowtv.lol:80/play/6uBoQI2qNo_pHGAdYc8QhNKkdDHaVGuUp4a4zyFn9HI/ts
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻,http://live.cooltv.top/tv/tvb.php?id=1
 无线新闻,http://live.hodtv.vip:25461/live/5633/123/3743.ts
 无线新闻,http://23.237.10.66:16110
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u
 有线新闻台,http://live.hodtv.vip:25461/live/5633/123/3753.ts
-香港603,http://live.hodtv.vip:25461/live/5633/123/3756.ts
+有线603,http://hs.nowtv.lol:80/play/6uBoQI2qNo_pHGAdYc8QhLEW0yvkdfaIsHRN-IuuogU/ts
+有线18台,http://hs.nowtv.lol:80/play/6uBoQI2qNo_pHGAdYc8QhMdfLl-r9qAm8VVoOQNBif4/ts
+有线体育,http://hs.nowtv.lol:80/play/6uBoQI2qNo_pHGAdYc8QhP1DFxDiq0TTNdAoPAFnQw0/ts
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=2
 TVB财经,http://live.cooltv.top/tv/tvb.php?id=3
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8 
 香港開电视,http://206.221.176.47:64007
-
+翡翠台,http://hs.nowtv.lol:80/play/6uBoQI2qNo_pHGAdYc8QhNLU7D5N_mYnzSwyd8g7-E8/ts
 翡翠台,http://23.237.10.66:16106
 翡翠台,http://jyjxy.7766.org:808/hls/36/index.m3u8
 翡翠台,http://113.64.147.194:808/hls/67/index.m3u8 
@@ -57,7 +59,7 @@ TVB财经,http://live.cooltv.top/tv/tvb.php?id=3
 
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 外国音乐,http://23.237.10.66:16124
-J2,http://198.16.64.170:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+J2,http://hs.nowtv.lol:80/play/6uBoQI2qNo_pHGAdYc8QhOVp-jMSgoqp_VbJO1YN-lk/ts
 J2,http://120.84.96.195:808/hls/86/index.m3u8
 VIUT,https://cdn.hklive.tv:443/xxxx/99/index.m3u8#http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514#http://198.16.64.170:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b#http://27.46.125.83:800/hls/86/index.m3u8#http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=MF2F6219999362199993&ct=19225&tsum=0315b071e42f6b8b6f49b6ca58b7393b#https://live.astradamy.com/viutv/index.m3u8
 VIUT6,http://198.16.64.170:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
@@ -260,7 +262,8 @@ TVB影视剧,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279
 爱尔体育,http://111.11.123.28:6610/000000001000/6000000006000290630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2227720221023012529725026&channel-id=wasusyt&Contentid=6000000006000290630#http://111.11.123.46:6610/000000001000/6000000006000290630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2227720221023012529725026&channel-id=wasusyt&Contentid=6000000006000290630
 ASTRO SPUER4,http://206.221.176.47:64035
 天下足球,http://171.108.239.115:8181/tsfile/live/1008_1.m3u8
-广东体育,http://120.84.96.180:808/hls/22/index.m3u8 #http://183.63.15.42:9901/tsfile/live/1001_1.m3u8#http://183.63.15.42:9901/tsfile/live/1010_1.m3u8#http://218.17.216.102:9901/tsfile/live/1004_1.m3u8
+广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146#http://183.63.15.42:9901/tsfile/live/1001_1.m3u8#http://183.63.15.42:9901/tsfile/live/1010_1.m3u8#http://218.17.216.102:9901/tsfile/live/1004_1.m3u8
+广东体育超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.168:5146
 超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 魅力足球,http://113.64.147.131:808/hls/65/index.m3u8#http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
@@ -340,11 +343,12 @@ Eurosport2,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/s
 
 轮播电影2,#genre#
 好莱坞电影,http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
-有线电影台,http://206.221.176.47:64021
+有线电影台,http://hs.nowtv.lol:80/play/6uBoQI2qNo_pHGAdYc8QhBGvWoUpkUJUeRkYtCWnVgg/ts
+Now星影台,http://hs.nowtv.lol:80/play/6uBoQI2qNo_pHGAdYc8QhGiQFEUZ9KWHBhLzed6sZ3s/ts
 粤语港片,http://baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
 轮播1,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-
 斗鱼粤语,http://epg.112114.xyz/douyu/1226741
+TVB 粤语片台,http://hs.nowtv.lol:80/play/6uBoQI2qNo_pHGAdYc8QhAdU9iS2vIhumIYzr7ATbII/ts
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
 黑莓电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
 粤语电影,http://epg.112114.xyz/huya/11352894
@@ -373,8 +377,23 @@ CHC家庭,http://171.108.239.47:8181/tsfile/live/1006_1.m3u8
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 天映经典,http://171.108.239.47:8181/tsfile/live/1009_1.m3u8
-冰雪奇缘2,https://defaultts.tc.qq.com//defaultts.tc.qq.com//uwMROfz2r5zAoaQXGdGnDGdf64_zxOYkWt7fFL4J9_ME5Sty//8HzNOBzpjBAf_Ulipo6wGqml8ZXFx3HK8AYRbf5VyvYAiB1yRy2dyd8e2582qYTesu1pL3UIgeZUqG7clt-K2Bk0OzmZSOOPhpk_IojDewy6f1R-AKttzhI4j3_NxVn2q5TZnG-vseu7BWJHom82tXX4WZMAbC2p//b00334s65b3.321003.ts.m3u8?ver=4
-冰雪奇缘1,https://defaultts.tc.qq.com//defaultts.tc.qq.com//uwMROfz2r57AoaQXGdGnDGde46HpoS4nGeb1wkLLBhB7CA4o//svp_50112//HISZMhsGI83inmR1aKwmq-2qiXlegVP3wEK1jV10438fwAJrKlezMV5K9R1Eu3x7F27HzDnn29lfF3McCFW9F2sRSB0X1rMCv5NNqGLa0JuU4rs5O5xls0fnXhJFC1iAXUXqZOVVeGvjNCpog_vCwq9oJTUvhE1s//gzc_1000102_0b53oeabcaaabyaonwmxdfq4a4odcf6qafka.f323013001.ts.m3u8?ver=4
+虎牙-周星星,http://jiandjh.51vip.biz:35455/huya/11342412
+虎牙-林正英,http://jiandjh.51vip.biz:35455/huya/11342421
+虎牙-沈腾,http://jiandjh.51vip.biz:35455/huya/11601968
+虎牙-古装武侠,http://jiandjh.51vip.biz:35455/huya/25098954
+虎牙-经典动作,http://jiandjh.51vip.biz:35455/huya/26182091
+虎牙-猫和老鼠,http://jiandjh.51vip.biz:35455/huya/11352879
+虎牙-成龙,http://jiandjh.51vip.biz:35455/huya/11342386
+虎牙-李连杰,http://jiandjh.51vip.biz:35455/huya/11342390
+虎牙-刘德华,http://jiandjh.51vip.biz:35455/huya/11342424
+虎牙-王晶,http://jiandjh.51vip.biz:35455/huya/11602058
+虎牙-中华小当家,http://jiandjh.51vip.biz:35455/huya/11342413
+虎牙-杰森·斯坦森,http://jiandjh.51vip.biz:35455/huya/21059588
+虎牙-喜剧专场,http://jiandjh.51vip.biz:35455/huya/11602044
+虎牙-甄子丹,http://jiandjh.51vip.biz:35455/huya/11352935
+虎牙-巨石强森,http://jiandjh.51vip.biz:35455/huya/21059581
+虎牙-洪金宝,http://jiandjh.51vip.biz:35455/huya/11279251
+虎牙-詹姆斯邦德,http://jiandjh.51vip.biz:35455/huya/21059585
 天映经典,http://171.108.239.47:8181/tsfile/live/1009_1.m3u8
 斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=80f247e42b862905dafbf56c256bd1e2&token=cpn-androidmpro-0-3637778-8c089871434b9344aa21bb2a21bf11eda7e2cffd7513a332&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv3a/3637726rQLDdfto7.flv?wsAuth=5b756d2f5b6d2959bf053c849449666f&token=cpn-androidmpro-0-3637726-a97a3241d761383478d4fcc20218fc1511f9e1174876d26f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
