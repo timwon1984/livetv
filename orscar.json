@@ -3,7 +3,7 @@
 "spider":"https://raw.gitmirror.com/timwon1984/livetv/main/xo1.jar",
 "sites":[
 
-{"key":"csp_xBPQ_COMVE","name":"️FREEOK","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/timwon1984/livetv/main/XQB/COKEMV.json"},
+{"key":"csp_xBPQ_COMVE","name":"️360","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/360.json"},
 {"key":"csp_xBPQ_007","name":"️007","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/timwon1984/livetv/main/XQB/007.json"},
 {"key":"csp_xBPQ_LIBVIO","name":"️LIBVIO","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/timwon1984/livetv/main/XQB/LIBVIO.json"},
 {"key":"csp_xBPQ_F7","name":"️F7","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/smjxf/box/main/xBPQ/F7%E5%A5%BD%E7%9C%8B%E5%89%A7.json"},
