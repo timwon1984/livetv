@@ -46,8 +46,8 @@
 	{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/HoHo影视.js"},  
 	
 
-{"key":"极速","name":"极速(官)","type":1,"api":"https://jszyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,","playUrl":"https://jsjiexi.com/play/?url="},
-{"key":"ikunz","name":"ikunz(官)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"},
+{"key":"极速","name":"极速(官)","type":1,"api":"https://jszyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"playUrl":"https://jsjiexi.com/play/?url="},
+{"key":"ikunz","name":"ikunz(官)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车资源(官)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"FOX资源","name":"FOX资源(官)","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源(官)","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1},
