@@ -29,23 +29,6 @@
 
 {"key":"csp_xBPQ_屁屁影视","name":"APP影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/APP影院.json"},
 
-
-{"key": "drpy_js_91","name": " 🎑91[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://raw.gitmirror.com/timwon1984/livetv/main/XQB/91.js"},
-	{"key": "drpy_js_JRAN直播","name": " 🎑JRAN直播 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.mini.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/joyi911/joyi911.github.io/main/js/JRKAN%E7%9B%B4%E6%92%AD.js"},
-	{"key": "drpy_js_123影院","name": " 🎑123影院 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com//myhomebox/tv/main/lib/js/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com//myhomebox/tv/main/js/123kubo.js"},
-	{"key": "drpy_js_88看球","name": " 🎑88看球 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/88%E7%9C%8B%E7%90%83.js"},
-	{"key": "drpy_js_348","name": " 🎑348[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/348%E7%94%B5%E5%BD%B1%E7%BD%91.js"},
-	{"key": "drpy_js_豆芽影院","name": " 🎑豆芽影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/us8888/ceshi/main/js/AGE%E5%8A%A8%E6%BC%AB.js"},
-	{"key": "drpy_js_AGE","name": " 🎑AGE[DRPY]","type": 3,"api": "https://ghproxy.com/https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/唐人街影视.js"},
-	{"key": "drpy_js_楚门影院","name": " 🎑楚门影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/楚门影院.js"},
-	{"key": "drpy_js_if101","name": " 🎑If101 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/if101.js"},    
-	{"key": "drpy_js_爱壹帆","name": " 🎑爱壹帆 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/爱壹帆.js"},
-	{"key": "drpy_js_起飞影院","name": " 🎑起飞影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/起飞影院.js"},    
-	{"key": "drpy_js_海兔影院","name": " 🎑海兔影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/海兔影院.js"},   
-	{"key": "drpy_js_金曼影视","name": " 🎑金曼影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/金曼影视.js"},
-	{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/HoHo影视.js"},  
-	
-
 {"key":"极速","name":"极速(官)","type":1,"api":"https://jszyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"playUrl":"https://jsjiexi.com/play/?url="},
 {"key":"ikunz","name":"ikunz(官)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车资源(官)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -65,6 +48,23 @@
 {"key":"思古官采","name":"思古官采","type":1,"api":"https://c.sigu.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"wabc(腾讯直采)","name":"wabc(腾讯直采)(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"https://jx.m3u8.tv/jiexi/?url=","searchable":1,"quickSearch":1},
 {"key":"片库","name":"片库(官)","type":1,"api":"https://pianku.wang/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key": "drpy_js_91","name": " 🎑91[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://raw.gitmirror.com/timwon1984/livetv/main/XQB/91.js"},
+	{"key": "drpy_js_JRAN直播","name": " 🎑JRAN直播 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.mini.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/joyi911/joyi911.github.io/main/js/JRKAN%E7%9B%B4%E6%92%AD.js"},
+	{"key": "drpy_js_123影院","name": " 🎑123影院 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com//myhomebox/tv/main/lib/js/drpy.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com//myhomebox/tv/main/js/123kubo.js"},
+	{"key": "drpy_js_88看球","name": " 🎑88看球 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/js/88%E7%9C%8B%E7%90%83.js"},
+	{"key": "drpy_js_348","name": " 🎑348[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/348%E7%94%B5%E5%BD%B1%E7%BD%91.js"},
+	{"key": "drpy_js_豆芽影院","name": " 🎑豆芽影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/us8888/ceshi/main/js/AGE%E5%8A%A8%E6%BC%AB.js"},
+	{"key": "drpy_js_AGE","name": " 🎑AGE[DRPY]","type": 3,"api": "https://ghproxy.com/https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/唐人街影视.js"},
+	{"key": "drpy_js_楚门影院","name": " 🎑楚门影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/楚门影院.js"},
+	{"key": "drpy_js_if101","name": " 🎑If101 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/if101.js"},    
+	{"key": "drpy_js_爱壹帆","name": " 🎑爱壹帆 🚪[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/爱壹帆.js"},
+	{"key": "drpy_js_起飞影院","name": " 🎑起飞影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/Js/起飞影院.js"},    
+	{"key": "drpy_js_海兔影院","name": " 🎑海兔影院[DRPY]","type": 3,"api": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/海兔影院.js"},   
+	{"key": "drpy_js_金曼影视","name": " 🎑金曼影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/金曼影视.js"},
+	{"key": "drpy_js_HoHo影视","name": " 🎑HoHo影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://github.com/heroaku/TVboxo/raw/main/libs/drpy.min.js","ext": "https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/main/Js/HoHo影视.js"},  
+	
+
+
 #切片资源
 {"key":"步步高资源","name":"步步高资源(切)","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源(切)","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
