@@ -4,8 +4,8 @@
 	"主页url": "https://www.cnys.tv//",
 	"热门": "",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-https://www.cnys.tv/vodshow-1-area-%E5%A4%A7%E9%99%86-by-time-class-%E5%96%9C%E5%89%A7-lang-%E5%9B%BD%E8%AF%AD-page-1-year-2023.html
-	"分类url": "https://www.cnys.tv/vodshow-{cateId}-area-{area}-by-{by}-class-{class}-lang-{lang}-page-{catePg}-year-{year}.html
+
+	"分类url": "https://www.cnys.tv/vodshow-{cateId}-area-{area}-by-{by}-class-{class}-lang-{lang}-page-{catePg}-year-{year}.html",
 	"数组": "",
 	"副标题": "",
 	"图片": "data-src=\"&&\"",
