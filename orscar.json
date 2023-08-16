@@ -281,13 +281,12 @@
 
 
 
-{"key":"MM资源","name":"MM资源(官)","type":1,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://m.southyorkspool.com/api?type=json"},
-{"key":"TOM资源","name":"TOM资源(官)","type":1,"api":"https://api.tomcaiji.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://jiexi.kczyapi.com/m3u8/?url="},
-{"key":"快车资源","name":"快车资源(官)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://jiexi.kczyapi.com/m3u8/?url="},
-{"key":"FOX资源","name":"FOX资源(官)","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://hd.iapijy.com/play?url="},
-{"key":"金鹰资源","name":"金鹰资源(官)","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://hd.iapijy.com/play?url="},
-{"key":"1080资源","name":"1080资源(官)","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":1,"quickSearch":1,"playUrl":"https://vip.zykbf.com/?url="},
-{"key":"星海资源","name":"星海资源(官)","type":1,"api":"https://www.xhzy01.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://m3u8.tx-xhzy.com/?url=","searchable":1,"quickSearch":1},
+{"key":"ikunz","name":"ikunz(官)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"playUrl":"https://www.ikdmjx.com/?url="},
+{"key":"快车资源","name":"快车资源(官)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"FOX资源","name":"FOX资源(官)","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"金鹰资源","name":"金鹰资源(官)","type":1,"api":"https://jyzyapi.com/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"1080资源","name":"1080资源(官)","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":1,"quickSearch":1},
+{"key":"星海资源","name":"星海资源(官)","type":1,"api":"https://www.xhzy01.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天堂资源","name":"天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"M3U8.TV资源","name":"M3U8.TV资源(官)","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","playUrl":"https://hd.njeere.com/play?url=","searchable":1,"quickSearch":1},
 {"key":"清欢资源","name":"清欢资源(官)","type":1,"api":"https://www.qinghuanzy.com/qinghuan.php/provide/vod/","playUrl":"https://hd.njeere.com/play?url=","searchable":1,"quickSearch":1},
