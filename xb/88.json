@@ -5,7 +5,7 @@
 	"热门": "",
     "分类": "电影$dianying#电视剧$dianshiju#综艺$3#动漫$4#",
 
-	"分类url": "https://www.555dianying.cc/vodshow/",
+	"分类url": "https://www.555dianying.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 	"数组": "",
 	"副标题": "",
 	"图片": "data-original=\"&&\"",
