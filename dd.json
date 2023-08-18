@@ -6,7 +6,7 @@ spider:'https://ghproxy.com/https://raw.githubusercontent.com/heroaku/TVboxo/mai
 #官方解析
 
  
- {"key":"A资源","name":"A资源(官)","type":1,"api":"http://hszy.vip/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://jx.m3u8.tv/jiexi/?url="},
+
   {"key":"草榴资源","name":"草榴资源(官)","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"playUrl":"https://jiexi.putaozyw.net/m3u8/?url="},
 {"key":"葡萄资源","name":"葡萄资源(官)","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"playUrl":"https://jiexi.putaozyw.net/m3u8/?url="},
  {"key":"SE猫资源","name":"SE猫资源(官)","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":1,"playUrl":"https://jx.m3u8.tv/jiexi/?url="},
