@@ -23,10 +23,10 @@
 	"简介": "product-excerpt\">&&</span>",
 	"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 	"线路数组": "",
-	"线路标题": "",
-	"播放数组": "",
-	"播放列表": "",
-	"播放标题":"",
+	"线路标题": "<dt class=\"&&</div>",
+	"播放数组": "class=\"playlist clearfix\"&&</ul>",
+	"播放列表":"<a&&/a>",
+	"播放标题":"<a&&/a>",
 	"播放链接": "href=\"&&\"",
 	"筛选": {
 		"1": [
