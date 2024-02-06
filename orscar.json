@@ -5,7 +5,7 @@
 	"sites":[
 
 {"key":"csp_xBPQ_COMVE","name":"️360","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/360%E5%BD%B1%E8%A7%86.json"},
-{"key":"csp_xBPQ_007","name":"️阿布影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/timwon1984/livetv/main/XQB/007.json"},
+{"key":"csp_xBPQ_007","name":"️阿布影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/lwm212/JK/main/XBPQ/539.json"},
 {"key":"csp_xBPQ_348","name":"️348","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/348%E7%94%B5%E5%BD%B11.json"},
 {"key":"csp_xBPQ_LIB","name":"️LIBVIO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/LIBVIO.json"},
 {"key":"csp_xBPQ_539","name":"️539","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/yw88075/tvbox/main/XBPQ/%E4%B9%9D%E7%A6%B9%E5%BD%B1%E8%A7%86.json"},
