@@ -101,7 +101,7 @@
 {"key":"wabc(腾讯直采)","name":"wabc(腾讯直采)(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"https://jx.m3u8.tv/jiexi/?url=","searchable":1,"quickSearch":1},
 {"key":"片库","name":"片库(官)","type":1,"api":"https://pianku.wang/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "drpy_js_91","name": " 🎑91[DRPY]","type": 3,"api": "https://raw.gitmirror.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://raw.gitmirror.com/timwon1984/livetv/main/XQB/91.js"},
-	{"key": "drpy_js_youku","name": " 🎑优酷[DRPY]","type": 3,"api": "https://raw.gitmirror.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/优酷.j"},
+	{"key": "drpy_js_youku","name": " 🎑优酷[DRPY]","type": 3,"api": "https://raw.gitmirror.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/优酷.js"},
 	{"key": "drpy_js_bili","name": " 🎑bili 🚪[DRPY]","type": 3,"api": "https://raw.gitmirror.com/myhomebox/tv/main/lib/js/drpy.js","ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/json/动漫巴士.json"},
 	{"key": "drpy_js_TENYUN","name": " 🎑腾云[DRPY]","type": 3,"api": "https://raw.gitmirror.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/腾云驾雾.js"},
 	{"key": "drpy_js_348","name": " 🎑348[DRPY]","type": 3,"api": "https://raw.gitmirror.com/Dong-learn9/TVBox-zyjk/main/JS/lib/drpy.min.js","ext": "https://raw.gitmirror.com/heroaku/TVboxo/main/Js/348%E7%94%B5%E5%BD%B1%E7%BD%91.js"},
@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitmirror.com/takagen99/channel/e9950e7d3db574a7fa9d12f4794d7337b5adcf24/CATVOD/main/xp/cokem.json"
+      "ext": "https://raw.gitmirror.com/takagen99/channel/e9950e7d3db574a7fa9d12f4794d7337b5adcf24/CATVOD/main/xp/cokem.json",
       "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/takagen99/channel/e9950e7d3db574a7fa9d12f4794d7337b5adcf24/CATVOD/jar/20240204.jar"
     },
 
