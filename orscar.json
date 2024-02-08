@@ -1,7 +1,7 @@
 {
 //"spider":"https://www.bestpvp.site/关注码上放生/jar包",
 //"spider":"https://raw.gitmirror.com/timwon1984/livetv/main/jar/xo1.jar",
-"spider":"https://raw.gitmirror.com/yw88075/tvbox/d373f30fd4ae618322fe6b242faaa4271f65bb31/HeChengChaXiu.jar",
+"spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/yw88075/tvbox/main/HeChengChaXiu.jar",
 	"sites":[
 
 {"key":"csp_xBPQ_COMVE","name":"️360","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/360%E5%BD%B1%E8%A7%86.json"},
@@ -14,8 +14,9 @@
 {"key":"csp_xBPQ_Voflix","name":"️Voflix","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/Voflix.json"},	
 {"key":"csp_xBPQ_NikeTV","name":"️NikeTV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/NikeTV.json"},
 {"key":"csp_xBPQ_555","name":"️555","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/555%E7%94%B5%E5%BD%B1.json"},
- {"key":"csp_xBPQ_真不卡","name":"️真不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"hmhttps://raw.gitmirror.com/timwon1984/livetv/main/xb/99.json"},
-{"key":"csp_xBPQ_66影院","name":"66影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/https://raw.githubusercontent.com/13998394872/TVBox/main/XBPQ/66%E5%BD%B1%E9%99%A2.json"},
+{"key":"csp_xBPQ_007","name":"️007","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"hmhttps://raw.gitmirror.com/timwon1984/livetv/main/XQB/007.json"},
+		{"key":"csp_xBPQ_真不卡","name":"️真不卡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/timwon1984/livetv/main/xb/99.json"},
+{"key":"csp_xBPQ_66影院","name":"66影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/66%E5%BD%B1%E9%99%A2.json"},
 {"key":"csp_xBPQ_港剧","name":"港剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/七年影视.json"},
 {"key":"csp_xBPQ_优嗯影视","name":"UM影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/UM影院.json"},
 {"key":"csp_xBPQ_番茄影视","name":"番茄影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/xBPQ/番茄影视.json"},
