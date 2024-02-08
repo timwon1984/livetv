@@ -110,7 +110,6 @@
 
 {"key":"U酷资源","name":"U酷资源(优)","type":0,"api":"https://api.ukuapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 
-{"key":"奇虎","name":"奇虎资源(优)","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"八度","name":"八度资源(优)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快云","name":"快云资源(优)","type":1,"api":"https://kuaiyun-api.com/api.php/provide/vod/from/kuaiyunbo","searchable":1,"quickSearch":1,"playUrl":"www.kuaiyunplayer.com/dplayer/?url="},		
 {"key":"云解析","name":"云析资源(优)","type":1,"api":"https://api.yparse.com/api/json","searchable":1,"quickSearch":1,"playUrl":"jx.yparse.com/index.php?url="},
