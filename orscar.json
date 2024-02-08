@@ -103,17 +103,7 @@
 
    
 	
-        {
-      "key": "xp_cokemv",
-      "name": "Cokemv",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.gitmirror.com/takagen99/channel/e9950e7d3db574a7fa9d12f4794d7337b5adcf24/CATVOD/main/xp/cokem.json",
-      "jar": "https://hub.gitmirror.com/https://raw.githubusercontent.com/takagen99/channel/e9950e7d3db574a7fa9d12f4794d7337b5adcf24/CATVOD/jar/20240204.jar",
-    },
+
 
 
 #优质资源
