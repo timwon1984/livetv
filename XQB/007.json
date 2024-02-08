@@ -2,7 +2,10 @@
 "作者":"张弘",
 "站名":"零零七影视",
 "主页url":"https://www.ddkk.tv/",
-"数组":"<div class=\"stui-vodlist__box\">&&</div>",
+ 
+ "请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1#Referer$https://www.ddkk.tv/",
+ "嗅探词":"P3.douyinpic.com#.mp4#m3u8#ctyunxs.cn#tos-alisg",
+ "数组":"<div class=\"stui-vodlist__box\">&&</h4>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
