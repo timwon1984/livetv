@@ -5,7 +5,13 @@
 	"sites":[
 
 {"key":"csp_xBPQ_COMVE","name":"️360","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/360%E5%BD%B1%E8%A7%86.json"},
-{"key":"csp_xBPQ_ABYS","name":"️阿布影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/lwm212/JK/main/XBPQ/539.json"},
+ {"key":"阿布",
+     "name":"🔥阿布影视🔥",
+     "type":3,"api":"csp_XBPQ",
+	 "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/xzqcsa/ysc/1d346fb3cc08f0b7a153683730df308055650b4d/xzqzy/lib/Yoursmile1.jar",
+     "searchable":1,"quickSearch":1,"filterable":1,
+      "ext":{"分类url": "https://www.abu22.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+      "分类": "动画片$101#电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key":"csp_xBPQ_348","name":"️348","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/timwon1984/livetv/main/XQB/348.json"},
 {"key":"csp_xBPQ_LIB","name":"️LIBVIO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/LIBVIO.json"},
 {"key":"csp_xBPQ_539","name":"️539","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/yw88075/tvbox/main/XBPQ/%E4%B9%9D%E7%A6%B9%E5%BD%B1%E8%A7%86.json"},
