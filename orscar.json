@@ -17,7 +17,7 @@
      "type":3,"api":"csp_XBPQ",
 	 "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/xzqcsa/ysc/1d346fb3cc08f0b7a153683730df308055650b4d/xzqzy/lib/Yoursmile1.jar",
      "searchable":1,"quickSearch":1,"filterable":1,
-       "ext":{"分类url": "https://www.fofoyy.com/{cateId}/0-{area}-{year}-0?page={pg}",
+       "ext":{"分类url": "https://www.fofoyy.com/{cateId}/0-{area}-{year}-0?page={catePg}",
       "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 {"key":"csp_xBPQ_348","name":"️348","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/timwon1984/livetv/main/XQB/348.json"},
 {"key":"csp_xBPQ_LIB","name":"️LIBVIO","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/13998394872/TVBox/main/XBPQ/LIBVIO.json"},
