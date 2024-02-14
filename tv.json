@@ -60,9 +60,9 @@ TVB财经,http://live.cooltv.top/tv/tvb.php?id=3
 娱乐新闻台,http://206.221.176.47:64019
 明珠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt
 外国音乐,http://23.237.10.66:16124
-J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-J2,https://st01-1.iptv.joj.sk/104-tv-pc.m3u8
-VIUT,http://120.132.122.244:59847/hls/85/index.m3u8
+J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+J2,http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+VIUT,http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 VIUT,http://107.167.12.58:27347/livehttpplay?channel_id=30032
 VIUT6,http://120.132.122.244:59847/hls/86/index.m3u8
 VIUT6,http://107.167.12.58:27347/livehttpplay?channel_id=30033
@@ -178,6 +178,8 @@ Eurosport2,https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/s
 
 
 轮播电影2,#genre#
+淘电影,http://114.253.78.248:8686/rtp/239.3.1.250:8001
+电影台,http://lhq-cctv.8866.org:18181/tsfile/live/1215_1.m3u8
 港台电影,http://www.51romzj.love:35455/huya/880261
 中国电影,http://lcx-olt.8866.org:8181/tsfile/live/1076_1.m3u8
 华语电影,http://www.51romzj.love:35455/huya/11352880
