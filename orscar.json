@@ -12,7 +12,7 @@
      "type":3,"api":"csp_XBPQ",
 	 "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/lib/Yoursmile1.jar",
      "searchable":1,"quickSearch":1,"filterable":1,
-       "ext":{"分类url": "https://www.ddkk.tv/show/{cateId}-{area}----------{year}.html",
+       "ext":{"分类url": "https://www.ddkk.tv/show/{cateId}-{area}-------{catePg}---{year}.html",
       "分类": "电影$1#电视剧$2#综艺$4#动漫$3"}},
  {"key":"FOFO",
      "name":"🔥FOFO🔥",
