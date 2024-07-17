@@ -1,7 +1,7 @@
 {
 //"spider":"https://www.bestpvp.site/关注码上放生/jar包",
 //"spider":"https://raw.gitmirror.com/timwon1984/livetv/main/jar/xo1.jar",
-"spider":"https://hub.gitmirror.com/https://raw.githubusercontent.com/yw88075/tvbox/main/HeChengChaXiu.jar",
+"spider":"https://gh.con.sh/https://raw.githubusercontent.com/yw88075/tvbox/main/HeChengChaXiu.jar",
 	"sites":[
 {"key":"豪华","name":"豪华(官)","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"ikunz","name":"ikunz(官)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
